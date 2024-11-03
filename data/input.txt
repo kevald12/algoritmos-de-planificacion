@@ -1,0 +1,6 @@
+Proceso,Tiempo de Creacion,Tiempo de CPU,Prioridad
+A,0,4,2
+B,4,5,1
+C,1,6,3
+D,3,3,2
+E,6,1,1
